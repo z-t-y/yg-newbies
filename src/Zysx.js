@@ -1,6 +1,7 @@
 import Navbar from "./Navbar"
 
 export default function Zysx() {
+    document.title = "注意事项"
     return (<>
         <Navbar />
         <div className="custom-container">

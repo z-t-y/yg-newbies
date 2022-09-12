@@ -1,6 +1,7 @@
 import Navbar from "./Navbar"
 
 export default function Scenery() {
+    document.title = "校园风景"
     return (<>
         <Navbar />
         <div className="custom-container scenery">
